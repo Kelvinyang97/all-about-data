@@ -7,7 +7,7 @@
 
 ## My Journey, Confusion, and Reality
 Initially, when I decided to do a dual degree of statistics + computer science, I felt that is the best future-proof combination.
-![](/images/frank-mckenna-fLtF68dMoQw-unsplash.jpg "bright future")
+![](/images/frank-mckenna-fLtF68dMoQw-unsplash.jpg "bright future")[1]
 However, soon after I found the wide gap between current curriculum of statistics and machine learning/deep learning components of computer science. The computer science courses all seem to focus on the coolest algorithms in town straight out of some google/facebook R&D departments, while statistics generally still chew the gums of chewed to completely flavourless by big figures at least 30 years ago. I really had no idea how to actually use these statistics methods except for the rare use cases of analysing data from some governmens' bureau of statistics department. Due to this harsh reality, I've walked farther and farther into the path of machine learning and deep learning and ready to say a sad good bye for statistics.
 
 ## Realisation
@@ -19,4 +19,4 @@ I've now determined to become fully proficient with the end to end development o
 
 ## Footnotes
 
-[^1]: This is the footnote.
+[^1]: <span>Photo by <a href="https://unsplash.com/@frankiefoto?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">frank mckenna</a> on <a href="https://unsplash.com/s/photos/bright-future?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
