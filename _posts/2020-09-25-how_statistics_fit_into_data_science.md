@@ -6,70 +6,16 @@
 3. Current Work
 
 ## My Journey, Confusion, and Reality
-Initially, when I decided to do a dual degree of statistics + computer science, I felt that is the best future-proof combination
-![](/images/logo.png "fast.ai's logo")
+Initially, when I decided to do a dual degree of statistics + computer science, I felt that is the best future-proof combination.
+![](/images/logo.png "fast.ai's logo") (change this to the bring future picture)
+However, soon after I found the wide gap between current curriculum of statistics and machine learning/deep learning components of computer science. The computer science courses all seem to focus on the coolest algorithms in town straight out of some google/facebook R&D departments, while statistics generally still chew the gums of chewed to completely flavourless by big figures at least 30 years ago. I really had no idea how to actually use these statistics methods except for the rare use cases of analysing data from some governmens' bureau of statistics department. Due to this harsh reality, I've walked farther and farther into the path of machine learning and deep learning and ready to say a sad good bye for statistics.
 
-Jekyll requires blog post files to be named according to the following format:
+## Realisation
+Recently, I've been devoted much of my efforts into developing job ready data science skills, and then I bumped into this hidden gem: *Data Science for Business* by Foster Provost and Tom Fawcett. In one paragraph, it reads "Statistics helps us understand how to use data to test hypotheses and to estimate the uncertainty of conclusions... This contrasts with the (complementary) process of data mining, which may be seen as hypothesis generation." This paragraph literally blew my mind about how statistics can be used. I now realise that data mining using machine learning and deep learning are actually complementary to statistics. The former generates pattern about potential relationships among the data, while the latter check its findings by hypothesis testing techniques. 
 
-`YEAR-MONTH-DAY-filename.md`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `filename` is whatever file name you choose, to remind yourself what this post is about. `.md` is the file extension for markdown files.
-
-The first line of the file should start with a single hash character, then a space, then your title. This is how you create a "*level 1 heading*" in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line `## File names` above.
-
-## Basic formatting
-
-You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule:
-
----
-
-## Lists
-
-Here's a list:
-
-- item 1
-- item 2
-
-And a numbered list:
-
-1. item 1
-1. item 2
-
-## Boxes and stuff
-
-> This is a quotation
-
-{% include alert.html text="You can include alert boxes" %}
-
-...and...
-
-{% include info.html text="You can include info boxes" %}
-
-## Images
-
-![](/images/logo.png "fast.ai's logo")
-
-## Code
-
-General preformatted text:
-
-    # Do a thing
-    do_thing()
-
-Python code and output:
-
-```python
-# Prints '2'
-print(1+1)
-```
-
-    2
-
-## Tables
-
-| Column 1 | Column 2 |
-|-|-|
-| A thing | Another thing |
+## Current Work
+I've now determined to become fully proficient with the end to end development of a data science solutions. My statistics knowledge can hopefully provide me tools to check the validity of findings from data mining and enabled me to provide more comprehensive data science solutions.
 
 ## Footnotes
 
